@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🚧 This page is under construction 🚧
+
+- 🔭 I’m currently working on [Bottlerocket](https://aws.amazon.com/bottlerocket)
+  and other [container](https://aws.amazon.com/fargate)
+  [infrastructure](https://github.com/firecracker-microvm/firecracker-containerd)
+  at Amazon Web Services
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 😄 Pronouns: [he/him](https://pronoun.is/he/him)
+
 <!--
 **samuelkarp/samuelkarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
