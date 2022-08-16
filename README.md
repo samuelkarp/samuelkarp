@@ -2,11 +2,8 @@
 
 🚧 This page is under construction 🚧
 
-- 🔭 I’m currently working on [Bottlerocket](https://aws.amazon.com/bottlerocket)
-  and other [container](https://aws.amazon.com/fargate)
-  [infrastructure](https://github.com/firecracker-microvm/firecracker-containerd)
-  at Amazon Web Services
-- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/)
+- 🔭 I’m currently working on containers at Google
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org/) and [FreeBSD](https://www.freebsd.org)
 - 😄 Pronouns: [he/him](https://pronoun.is/he/him)
 
 <!--
